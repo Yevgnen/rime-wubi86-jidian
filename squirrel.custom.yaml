@@ -27,7 +27,7 @@ patch:
       back_color: 0xFFFFFF                    # 颜色 - 面板背景
       text_color: 0x41925D                    # 颜色 - 面板背景
       label_color: 0x41925D                   # 颜色 - 候选序号
-      font_face: Helvetica                    # 字体 - 候选文字
+      font_face: PingFang SC                  # 字体 - 候选文字
       font_point: 20                          # 字体大小 - 候选
       label_font_face: Helvetica              # 字体 - 候选数字
       label_font_point: 20                    # 字体大小 - 候选序号
