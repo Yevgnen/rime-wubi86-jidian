@@ -29,7 +29,7 @@ patch:
       label_color: 0x41925D                   # 颜色 - 候选序号
       font_face: PingFang SC                  # 字体 - 候选文字
       font_point: 20                          # 字体大小 - 候选
-      label_font_face: Helvetica              # 字体 - 候选数字
+      label_font_face: PingFang SC            # 字体 - 候选数字
       label_font_point: 20                    # 字体大小 - 候选序号
       corner_radius: 5                        # 候选框圆角大小
 
